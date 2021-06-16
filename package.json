@@ -1,0 +1,12 @@
+{
+  "name": "whatsapp-bot",
+  "version": "1.0.0",
+  "description": "Responde de manera automática mediante un bot de WhatsApp desarrollado en NodeJS, con la libreria whatsapp-web.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
